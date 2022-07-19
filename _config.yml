@@ -1,0 +1,12 @@
+title: OneUI Project
+description: Unofficial One UI libraries and apps for Android.
+url: "https://oneuiproject.github.io"
+permalink: pretty
+# Set theme
+remote_theme: just-the-docs/just-the-docs
+# Set color scheme
+color_scheme: dark
+# Logo
+logo: "/assets/logo.png"
+# Disable heading anchor links
+heading_anchors: false
