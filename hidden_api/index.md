@@ -2,6 +2,7 @@
 layout: default
 title: Hidden Samsung API
 nav_order: 3
+permalink: /hidden-api/
 has_children: true
 has_toc: false
 ---

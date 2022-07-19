@@ -3,6 +3,7 @@ layout: default
 title: Lock screen Widgets
 parent: Hidden Samsung API
 nav_order: 1
+permalink: /hidden-api/facewidget/
 ---
 
 ## Lock screen Widgets

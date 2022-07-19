@@ -3,6 +3,7 @@ layout: default
 title: Quick Settings Detail View
 parent: Hidden Samsung API
 nav_order: 2
+permalink: /hidden-api/qs-detail-view/
 ---
 
 ## Quick Settings Detail View
