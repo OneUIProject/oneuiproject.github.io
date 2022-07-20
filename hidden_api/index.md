@@ -9,8 +9,6 @@ has_toc: false
 
 ## Hidden Samsung API
 
-:warning: W.I.P.
-
 These APIs **only** work on Samsung devices and will probably cause crashes on other Androids. We've discovered them by decompiling Samsung apps and figuring out on our own how to use them, so they might be incomplete.
 
 - ### [Lock screen Widgets](lock_screen_widgets.md)

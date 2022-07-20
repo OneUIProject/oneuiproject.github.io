@@ -9,4 +9,4 @@ has_children: true
 
 ## Material Components
 
-:warning: W.I.P.
+⚠️ W.I.P.

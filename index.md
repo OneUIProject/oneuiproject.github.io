@@ -7,10 +7,16 @@ permalink: /
 
 ## Welcome to the OneUI Project
 
-:warning: W.I.P.
+⚠️ W.I.P.
 
-### [oneui-core (Samsung Experience Support Library)]({% link sesl/index.md %})
-Documentation of the Samsung's One UI libraries.
+### [oneui-core / sesl]({% link sesl/index.md %})
+Documentation for the [Samsung Experience Support Libraries](https://github.com/OneUIProject/oneui-core).
 
 ### [Hidden Samsung API]({% link hidden_api/index.md %})
 APIs used by some Samsung apps only available on Samsung devices.
+
+### [OneUI Icons](https://github.com/OneUIProject/oneui-icons)
+A collection of 950+ icons found in Samsung apps.
+
+### [Android Studio SEC Fonts](https://github.com/OneUIProject/android-studio-sec-fonts)
+Android Studio Layout Editor font fix.
