@@ -22,10 +22,10 @@ We also suggest you to read Samsung's One UI design guidelines before you implem
 ## Styles
 
 - ### Widget.Design.TabLayout
-<img src="https://raw.githubusercontent.com/BlackMesa123/blackmesa123.github.io/main/assets/material/tablayout/tablayout-dark.png" width="50%"/>
+<img src="https://raw.githubusercontent.com/OneUIProject/oneuiproject.github.io/main/assets/material/tablayout/tablayout-dark.png" width="50%"/>
 
 - ### Widget.Design.TabLayout.Light
-<img src="https://raw.githubusercontent.com/BlackMesa123/blackmesa123.github.io/main/assets/material/tablayout/tablayout-light.png" width="50%"/>
+<img src="https://raw.githubusercontent.com/OneUIProject/oneuiproject.github.io/main/assets/material/tablayout/tablayout-light.png" width="50%"/>
 
 Avoid using "Widget.MaterialComponents.*" styles.
 
@@ -65,7 +65,7 @@ public void seslSetTabTextColor(ColorStateList textColor, boolean updateTabView)
 
 - Show or hide a badge without text for the tab at the specified index.
 
-<img src="https://raw.githubusercontent.com/BlackMesa123/blackmesa123.github.io/main/assets/material/tablayout/tablayout-dotbadge-light.png" width="15%"/> <img src="https://raw.githubusercontent.com/BlackMesa123/blackmesa123.github.io/main/assets/material/tablayout/tablayout-dotbadge-dark.png" width="15%"/>
+<img src="https://raw.githubusercontent.com/OneUIProject/oneuiproject.github.io/main/assets/material/tablayout/tablayout-dotbadge-light.png" width="15%"/> <img src="https://raw.githubusercontent.com/OneUIProject/oneuiproject.github.io/main/assets/material/tablayout/tablayout-dotbadge-dark.png" width="15%"/>
 
 ```java
 public void seslShowDotBadge(int index, boolean show)
@@ -73,7 +73,7 @@ public void seslShowDotBadge(int index, boolean show)
 
 - Show or hide a badge with text for the tab at the specified index.
 
-<img src="https://raw.githubusercontent.com/BlackMesa123/blackmesa123.github.io/main/assets/material/tablayout/tablayout-badge-light.png" width="15%"/> <img src="https://raw.githubusercontent.com/BlackMesa123/blackmesa123.github.io/main/assets/material/tablayout/tablayout-badge-dark.png" width="15%"/>
+<img src="https://raw.githubusercontent.com/OneUIProject/oneuiproject.github.io/main/assets/material/tablayout/tablayout-badge-light.png" width="15%"/> <img src="https://raw.githubusercontent.com/OneUIProject/oneuiproject.github.io/main/assets/material/tablayout/tablayout-badge-dark.png" width="15%"/>
 
 ```java
 public void seslShowBadge(int index, boolean show, String content)
@@ -82,7 +82,7 @@ public void seslShowBadge(int index, boolean show, String content, String conten
 
 - Set tabs badge background color.
 
-<img src="https://raw.githubusercontent.com/BlackMesa123/blackmesa123.github.io/main/assets/material/tablayout/tablayout-badgecolor-light.png" width="15%"/> <img src="https://raw.githubusercontent.com/BlackMesa123/blackmesa123.github.io/main/assets/material/tablayout/tablayout-badgecolor-dark.png" width="15%"/>
+<img src="https://raw.githubusercontent.com/OneUIProject/oneuiproject.github.io/main/assets/material/tablayout/tablayout-badgecolor-light.png" width="15%"/> <img src="https://raw.githubusercontent.com/OneUIProject/oneuiproject.github.io/main/assets/material/tablayout/tablayout-badgecolor-dark.png" width="15%"/>
 
 ```java
 public void seslSetBadgeColor(int color)
@@ -90,7 +90,7 @@ public void seslSetBadgeColor(int color)
 
 - Set tabs badge text color.
 
-<img src="https://raw.githubusercontent.com/BlackMesa123/blackmesa123.github.io/main/assets/material/tablayout/tablayout-badgetext-light.png" width="15%"/> <img src="https://raw.githubusercontent.com/BlackMesa123/blackmesa123.github.io/main/assets/material/tablayout/tablayout-badgetext-dark.png" width="15%"/>
+<img src="https://raw.githubusercontent.com/OneUIProject/oneuiproject.github.io/main/assets/material/tablayout/tablayout-badgetext-light.png" width="15%"/> <img src="https://raw.githubusercontent.com/OneUIProject/oneuiproject.github.io/main/assets/material/tablayout/tablayout-badgetext-dark.png" width="15%"/>
 
 ```java
 public void seslSetBadgeTextColor(int color)
@@ -98,7 +98,7 @@ public void seslSetBadgeTextColor(int color)
 
 - Change the view style to sub tabs.
 
-<img src="https://raw.githubusercontent.com/BlackMesa123/blackmesa123.github.io/main/assets/material/tablayout/tablayout-sub-light.png" width="40%"/> <img src="https://raw.githubusercontent.com/BlackMesa123/blackmesa123.github.io/main/assets/material/tablayout/tablayout-sub-dark.png" width="40%"/>
+<img src="https://raw.githubusercontent.com/OneUIProject/oneuiproject.github.io/main/assets/material/tablayout/tablayout-sub-light.png" width="40%"/> <img src="https://raw.githubusercontent.com/OneUIProject/oneuiproject.github.io/main/assets/material/tablayout/tablayout-sub-dark.png" width="40%"/>
 
 ```java
 public void seslSetSubTabStyle()
@@ -112,7 +112,7 @@ public void seslSetSubTabIndicatorHeight(int heightPixel)
 
 - Set sub tabs indicator background color.
 
-<img src="https://raw.githubusercontent.com/BlackMesa123/blackmesa123.github.io/main/assets/material/tablayout/tablayout-subcolor-light.png" width="20%"/> <img src="https://raw.githubusercontent.com/BlackMesa123/blackmesa123.github.io/main/assets/material/tablayout/tablayout-subcolor-dark.png" width="20%"/>
+<img src="https://raw.githubusercontent.com/OneUIProject/oneuiproject.github.io/main/assets/material/tablayout/tablayout-subcolor-light.png" width="20%"/> <img src="https://raw.githubusercontent.com/OneUIProject/oneuiproject.github.io/main/assets/material/tablayout/tablayout-subcolor-dark.png" width="20%"/>
 
 ```java
 public void seslSetSubTabSelectedIndicatorColor(int color)
@@ -120,7 +120,7 @@ public void seslSetSubTabSelectedIndicatorColor(int color)
 
 - Set sub tabs secondary text color.
 
-<img src="https://raw.githubusercontent.com/BlackMesa123/blackmesa123.github.io/main/assets/material/tablayout/tablayout-subtext-light.png" width="20%"/> <img src="https://raw.githubusercontent.com/BlackMesa123/blackmesa123.github.io/main/assets/material/tablayout/tablayout-subtext-dark.png" width="20%"/>
+<img src="https://raw.githubusercontent.com/OneUIProject/oneuiproject.github.io/main/assets/material/tablayout/tablayout-subtext-light.png" width="20%"/> <img src="https://raw.githubusercontent.com/OneUIProject/oneuiproject.github.io/main/assets/material/tablayout/tablayout-subtext-dark.png" width="20%"/>
 
 ```java
 public void seslSetTabSubTextColors(@Nullable ColorStateList color)

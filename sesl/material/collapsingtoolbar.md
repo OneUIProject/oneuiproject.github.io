@@ -22,10 +22,10 @@ We also suggest you to read Samsung's One UI design guidelines before you implem
 ## Styles
 
 - ### Widget.Design.CollapsingToolbar
-<img src="https://raw.githubusercontent.com/BlackMesa123/blackmesa123.github.io/main/assets/material/collapsingtoolbar/collapsingtoolbar-dark.png" width="50%"/>
+<img src="https://raw.githubusercontent.com/OneUIProject/oneuiproject.github.io/main/assets/material/collapsingtoolbar/collapsingtoolbar-dark.png" width="50%"/>
 
 - ### Widget.Design.Light.CollapsingToolbar
-<img src="https://raw.githubusercontent.com/BlackMesa123/blackmesa123.github.io/main/assets/material/collapsingtoolbar/collapsingtoolbar-light.png" width="50%"/>
+<img src="https://raw.githubusercontent.com/OneUIProject/oneuiproject.github.io/main/assets/material/collapsingtoolbar/collapsingtoolbar-light.png" width="50%"/>
 
 Avoid using "Widget.MaterialComponents.*" styles.
 
@@ -70,7 +70,7 @@ public CharSequence getSubTitle()
 
 - Set a custom title view, requires a [CollapsingToolbarLayout.LayoutParams](#collapsingtoolbarlayoutlayoutparams) instance.
 
-<img src="https://raw.githubusercontent.com/BlackMesa123/blackmesa123.github.io/main/assets/material/collapsingtoolbar/collapsingtoolbar-customview.gif" width="40%"/>
+<img src="https://raw.githubusercontent.com/OneUIProject/oneuiproject.github.io/main/assets/material/collapsingtoolbar/collapsingtoolbar-customview.gif" width="40%"/>
 
 ```java
 public void seslSetCustomTitleView(View view, LayoutParams params)

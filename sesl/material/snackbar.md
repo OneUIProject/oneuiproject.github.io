@@ -9,7 +9,7 @@ permalink: /sesl/material/snackbar/
 
 # Snackbar
 
-<img src="https://raw.githubusercontent.com/BlackMesa123/blackmesa123.github.io/main/assets/material/snackbar/snackbar.png" width="50%"/>
+<img src="https://raw.githubusercontent.com/OneUIProject/oneuiproject.github.io/main/assets/material/snackbar/snackbar.png" width="50%"/>
 
 Snackbars are similar to [Toasts](https://developer.android.com/guide/topics/ui/notifiers/toasts), but have an additional button to let users perform a follow-up action related to the content of the popup. It differs from Google's one by introducing a new theme.
 

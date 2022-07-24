@@ -22,16 +22,16 @@ We also suggest you to read Samsung's One UI design guidelines before you implem
 ## Styles
 
 - ### Widget.Design.BottomNavigationView
-<img src="https://raw.githubusercontent.com/BlackMesa123/blackmesa123.github.io/main/assets/material/bottomnav/bottomnav-dark.png" width="50%"/>
+<img src="https://raw.githubusercontent.com/OneUIProject/oneuiproject.github.io/main/assets/material/bottomnav/bottomnav-dark.png" width="50%"/>
 
 - ### Widget.Design.Light.BottomNavigationView
-<img src="https://raw.githubusercontent.com/BlackMesa123/blackmesa123.github.io/main/assets/material/bottomnav/bottomnav-light.png" width="50%"/>
+<img src="https://raw.githubusercontent.com/OneUIProject/oneuiproject.github.io/main/assets/material/bottomnav/bottomnav-light.png" width="50%"/>
 
 - ### Widget.Design.BottomNavigationView.Text
-<img src="https://raw.githubusercontent.com/BlackMesa123/blackmesa123.github.io/main/assets/material/bottomnav/bottomnav-text-dark.png" width="50%"/>
+<img src="https://raw.githubusercontent.com/OneUIProject/oneuiproject.github.io/main/assets/material/bottomnav/bottomnav-text-dark.png" width="50%"/>
 
 - ### Widget.Design.Light.BottomNavigationView.Text
-<img src="https://raw.githubusercontent.com/BlackMesa123/blackmesa123.github.io/main/assets/material/bottomnav/bottomnav-text-light.png" width="50%"/>
+<img src="https://raw.githubusercontent.com/OneUIProject/oneuiproject.github.io/main/assets/material/bottomnav/bottomnav-text-light.png" width="50%"/>
 
 Avoid using "Widget.MaterialComponents.*" styles.
 
@@ -99,7 +99,7 @@ public MenuBuilder seslGetOverflowMenu()
 
 - Show the group divider in the Overflow menu.
 
-<img src="https://raw.githubusercontent.com/BlackMesa123/blackmesa123.github.io/main/assets/material/bottomnav/bottomnav-overflow.jpg" width="25%"/>
+<img src="https://raw.githubusercontent.com/OneUIProject/oneuiproject.github.io/main/assets/material/bottomnav/bottomnav-overflow.jpg" width="25%"/>
 
 ```java
 public void seslSetGroupDividerEnabled(boolean enabled)
@@ -119,7 +119,7 @@ public int seslGetLabelTextAppearance()
 
 - Animate on menu changes.
 
-<img src="https://raw.githubusercontent.com/BlackMesa123/blackmesa123.github.io/main/assets/material/bottomnav/bottomnav-anim.gif" width="40%"/>
+<img src="https://raw.githubusercontent.com/OneUIProject/oneuiproject.github.io/main/assets/material/bottomnav/bottomnav-anim.gif" width="40%"/>
 
 ```java
 public void seslSetUpdateAnimation(boolean enabled)
@@ -129,7 +129,7 @@ public void seslSetUpdateAnimation(boolean enabled)
 
 This view support the SeslMenuItem interface to show a badge with text for each MenuItem:
 
-<img src="https://raw.githubusercontent.com/BlackMesa123/blackmesa123.github.io/main/assets/material/bottomnav/bottomnav-badge-light.png" width="15%"/> <img src="https://raw.githubusercontent.com/BlackMesa123/blackmesa123.github.io/main/assets/material/bottomnav/bottomnav-badge-dark.png" width="15%"/>
+<img src="https://raw.githubusercontent.com/OneUIProject/oneuiproject.github.io/main/assets/material/bottomnav/bottomnav-badge-light.png" width="15%"/> <img src="https://raw.githubusercontent.com/OneUIProject/oneuiproject.github.io/main/assets/material/bottomnav/bottomnav-badge-dark.png" width="15%"/>
 
 ```java
 SeslMenuItem menuItem = (SeslMenuItem) bottomNavView.getMenu().findItem(R.id.item_1);
